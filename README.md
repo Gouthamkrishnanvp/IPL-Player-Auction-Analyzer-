@@ -1,4 +1,4 @@
--🏏 IPL Player Auction Analyzer
+🏏 IPL Player Auction Analyzer
 
 📌 Project Overview
 

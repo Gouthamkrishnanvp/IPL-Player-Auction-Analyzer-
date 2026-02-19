@@ -7,15 +7,6 @@ The IPL Player Auction Analyzer is a data-driven project that evaluates IPL play
 
 To analyze IPL player performance metrics and develop a predictive auction price model that evaluates player value based on batting and bowling statistics, enabling data-backed franchise decision-making.
 
-📊 Dataset Features
-
->Runs
->Strike Rate
->Wickets
->Economy Rate
->Base Price
->Performance Score 
-
 🔎 Key Insights
 
 Players with higher Strike Rates and consistent Run totals showed strong influence on auction value.

@@ -9,12 +9,12 @@ To analyze IPL player performance metrics and develop a predictive auction price
 
 📊 Dataset Features
 
-Runs
-Strike Rate
-Wickets
-Economy Rate
-Base Price
-Performance Score (engineered feature)
+>Runs
+>Strike Rate
+>Wickets
+>Economy Rate
+>Base Price
+>Performance Score 
 
 🔎 Key Insights
 
